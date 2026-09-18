@@ -8,7 +8,7 @@ pd.set_option("styler.render.max_elements", 5000000)
 st.set_page_config(page_title="DINA - Pembanding Data", layout="wide", page_icon="🔍")
 
 # Header Aplikasi
-st.markdown("<h1 style='text-align: center; color: #4F81BD;'>🔍 SITI: Data Matcher</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: #4F81BD;'>🔍 DINA (Deteksi Identitas dan NIM Akademik)</h1>", unsafe_allow_html=True)
 st.markdown("<h4 style='text-align: center; font-weight: normal;'>Modul Pelacak Kesamaan & Perbedaan Berkas</h4>", unsafe_allow_html=True)
 st.divider()
 
