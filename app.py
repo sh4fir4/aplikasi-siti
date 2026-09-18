@@ -5,7 +5,7 @@ import io
 # 1. Menaikkan limit elemen styler pandas untuk menangani jutaan sel data
 pd.set_option("styler.render.max_elements", 5000000)
 
-st.set_page_config(page_title="SITI - Pembanding Data", layout="wide", page_icon="🔍")
+st.set_page_config(page_title="DINA - Pembanding Data", layout="wide", page_icon="🔍")
 
 # Header Aplikasi
 st.markdown("<h1 style='text-align: center; color: #4F81BD;'>🔍 SITI: Data Matcher</h1>", unsafe_allow_html=True)
